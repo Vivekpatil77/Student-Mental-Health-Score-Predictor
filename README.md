@@ -3,8 +3,7 @@
 # 🧠 MindPulse AI
 ### Student Mental Health Score Predictor & Analytics Suite
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io)
-[![Deploy to Render](https://img.shields.io/badge/Deploy%20to-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-brightgreen?style=for-the-badge&logo=render)](https://student-mental-health-score-predictor-guj6.onrender.com)
 [![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com)
@@ -12,6 +11,10 @@
 
 <p align="center">
   <b>An AI-powered diagnostic platform combining Machine Learning, Interactive Visualizations, and RESTful APIs to predict and analyze student mental health risk scores.</b>
+</p>
+
+<p align="center">
+  🚀 <b>Live Application:</b> <a href="https://student-mental-health-score-predictor-guj6.onrender.com" target="_blank">student-mental-health-score-predictor-guj6.onrender.com</a>
 </p>
 
 </div>
